@@ -142,6 +142,11 @@
     margin-top: 8px;
     height: 57px;
 }
+.main-speed-media {
+    display: block;
+	float: left;
+	margin-right: 10px;
+}
 
 .main-size-description {
     margin-top: 8px;
